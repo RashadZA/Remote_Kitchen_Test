@@ -1,5 +1,5 @@
 # Remote Kitchen App
-Just showing list of Friends and it's details
+Just showing list of Items from API then adding those in cart.
 
 # SDK
 Flutter SDK: 3.10.6
