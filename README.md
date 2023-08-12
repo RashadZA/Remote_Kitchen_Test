@@ -28,7 +28,7 @@ You can run this project:
 * Tapping on the friend’s email the mail app will open for sending email.
 
 ## Inside Structure of Lib Directory Screenshots
-<img src="screenShots/06.png">
+<img src="screenShots/10.png">
 
 ## APP Screenshots:
 <img src="screenShots/01.png">
